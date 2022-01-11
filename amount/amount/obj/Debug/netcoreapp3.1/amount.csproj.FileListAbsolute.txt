@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\taskamount\amount\amount\obj\Debug\netcoreapp3.1\amount.csprojAssemblyReference.cache
+C:\Users\user\Desktop\taskamount\amount\amount\obj\Debug\netcoreapp3.1\amount.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\taskamount\amount\amount\obj\Debug\netcoreapp3.1\amount.AssemblyInfo.cs
+C:\Users\user\Desktop\taskamount\amount\amount\obj\Debug\netcoreapp3.1\amount.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\taskamount\amount\amount\bin\Debug\netcoreapp3.1\amount.exe
+C:\Users\user\Desktop\taskamount\amount\amount\bin\Debug\netcoreapp3.1\amount.deps.json
+C:\Users\user\Desktop\taskamount\amount\amount\bin\Debug\netcoreapp3.1\amount.runtimeconfig.json
+C:\Users\user\Desktop\taskamount\amount\amount\bin\Debug\netcoreapp3.1\amount.runtimeconfig.dev.json
+C:\Users\user\Desktop\taskamount\amount\amount\bin\Debug\netcoreapp3.1\amount.dll
+C:\Users\user\Desktop\taskamount\amount\amount\bin\Debug\netcoreapp3.1\amount.pdb
+C:\Users\user\Desktop\taskamount\amount\amount\obj\Debug\netcoreapp3.1\amount.dll
+C:\Users\user\Desktop\taskamount\amount\amount\obj\Debug\netcoreapp3.1\amount.pdb
+C:\Users\user\Desktop\taskamount\amount\amount\obj\Debug\netcoreapp3.1\amount.genruntimeconfig.cache
