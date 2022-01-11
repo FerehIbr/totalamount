@@ -11,3 +11,17 @@ C:\Users\user\Desktop\taskamount\amount\amount\bin\Debug\netcoreapp3.1\amount.pd
 C:\Users\user\Desktop\taskamount\amount\amount\obj\Debug\netcoreapp3.1\amount.dll
 C:\Users\user\Desktop\taskamount\amount\amount\obj\Debug\netcoreapp3.1\amount.pdb
 C:\Users\user\Desktop\taskamount\amount\amount\obj\Debug\netcoreapp3.1\amount.genruntimeconfig.cache
+C:\Users\farahei\Desktop\totalamount\amount\amount\obj\Debug\netcoreapp3.1\amount.csproj.AssemblyReference.cache
+C:\Users\farahei\Desktop\totalamount\amount\amount\obj\Debug\netcoreapp3.1\amount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farahei\Desktop\totalamount\amount\amount\obj\Debug\netcoreapp3.1\amount.AssemblyInfoInputs.cache
+C:\Users\farahei\Desktop\totalamount\amount\amount\obj\Debug\netcoreapp3.1\amount.AssemblyInfo.cs
+C:\Users\farahei\Desktop\totalamount\amount\amount\obj\Debug\netcoreapp3.1\amount.csproj.CoreCompileInputs.cache
+C:\Users\farahei\Desktop\totalamount\amount\amount\obj\Debug\netcoreapp3.1\amount.dll
+C:\Users\farahei\Desktop\totalamount\amount\amount\obj\Debug\netcoreapp3.1\amount.pdb
+C:\Users\farahei\Desktop\totalamount\amount\amount\bin\Debug\netcoreapp3.1\amount.exe
+C:\Users\farahei\Desktop\totalamount\amount\amount\bin\Debug\netcoreapp3.1\amount.deps.json
+C:\Users\farahei\Desktop\totalamount\amount\amount\bin\Debug\netcoreapp3.1\amount.runtimeconfig.json
+C:\Users\farahei\Desktop\totalamount\amount\amount\bin\Debug\netcoreapp3.1\amount.runtimeconfig.dev.json
+C:\Users\farahei\Desktop\totalamount\amount\amount\bin\Debug\netcoreapp3.1\amount.dll
+C:\Users\farahei\Desktop\totalamount\amount\amount\bin\Debug\netcoreapp3.1\amount.pdb
+C:\Users\farahei\Desktop\totalamount\amount\amount\obj\Debug\netcoreapp3.1\amount.genruntimeconfig.cache

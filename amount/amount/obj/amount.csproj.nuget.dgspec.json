@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\taskamount\\amount\\amount\\amount.csproj": {}
+    "C:\\Users\\farahei\\Desktop\\totalamount\\amount\\amount\\amount.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\taskamount\\amount\\amount\\amount.csproj": {
+    "C:\\Users\\farahei\\Desktop\\totalamount\\amount\\amount\\amount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\taskamount\\amount\\amount\\amount.csproj",
+        "projectUniqueName": "C:\\Users\\farahei\\Desktop\\totalamount\\amount\\amount\\amount.csproj",
         "projectName": "amount",
-        "projectPath": "C:\\Users\\user\\Desktop\\taskamount\\amount\\amount\\amount.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\taskamount\\amount\\amount\\obj\\",
+        "projectPath": "C:\\Users\\farahei\\Desktop\\totalamount\\amount\\amount\\amount.csproj",
+        "packagesPath": "C:\\Users\\farahei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\farahei\\Desktop\\totalamount\\amount\\amount\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\farahei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,7 +8,8 @@ namespace amount
         static void Main(string[] args)
         {
             CashRegister cashRegister = new CashRegister(100,Currency.AZN);
-            cashRegister.Addnewsale(110, Currency.USD);
+            cashRegister.Addnewsale(Currency.USD,100);
+            Console.WriteLine(cashRegister);
         }
     }
 }
